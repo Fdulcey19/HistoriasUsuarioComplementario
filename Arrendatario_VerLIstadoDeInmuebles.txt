@@ -1,9 +1,11 @@
 	HISTORIA DE USUARIO
-
+============================================
 Como arrendatario quiero un listado de inmuebles para poder ver todos los que estas disponibles para la renta.
-
+Estimacion: 1
+============================================
 	CRITERIOS DE ACEPTACION
--Se podra visualizar imagenes sobre el inmueble.
+============================================
+-se listará los inmuebles y cada item de la lista mostrará una imagen sobre el inmueble.
 -Cada inmueble debe de tener una descripcion sobre su dimension,ubicacion,precio,disponibilidad de tiempo.
--Debe tener un boton para rentar el inmueble.
-
+-Debe tener un boton para rentar el inmueble y otro para ver el detalle del inmueble.
+- el usuario debe estar logueado.
