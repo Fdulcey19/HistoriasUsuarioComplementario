@@ -1,0 +1,18 @@
+historia de usuario Aceptar arrendamiento
+=======================================================================
+como arrendador quiero una interfaz donde pueda aceptar o rechazar la solicitud del inmueble 
+=======================================================================
+CRITERIOS DE ACEPTACION
+1)aparezca una solicitud de arrendamiento al dueño
+2)debe tener informacion de la persona, con nombre, numero de contacto
+3)un boton con el que acepte la solicitud "arrendamiento"
+4)boton con el que rechaze la solicitud "rechazar arrendamiento" 
+
+
+
+
+
+
+
+
+
