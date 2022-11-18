@@ -1,0 +1,22 @@
+Historia de Usuario (Registro de Usuario).
+===============================================
+Como arrendador y arrendatario quiero ingresar mis datos 
+para poder ingresar y hacer uso de los beneficios  como arrendador o arrendatario.
+
+Estimacion:3
+===============================================
+Criterios de aceptacion
+===============================================
+1. Se debe realizar una interfaz. En la perte superior central un titulo con el nombre de
+(Registro de usuario).
+
+2.Seguido de manera central una caja de texto donde se solicite el nombre del usuario.
+
+3.Seguido una caja de texto donde se solicite el correo electronico del usuario.
+
+4.Seguido una caja de texto donde se solicite que ingrese una contraseña, donde tenga
+ un caracter numerico,una letra mayuscula, minimo 10 caracteres y maximo 13 caracteres.
+
+5.Seguido la confirmacin de contraseña.
+
+6. En la parte inferior un link para registrarse, y un link para omitir este paso.
