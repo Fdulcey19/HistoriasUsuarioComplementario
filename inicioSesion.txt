@@ -1,11 +1,12 @@
 Historia de Usuario Inicio de Sesión
-
-Como usuario arrendador o arrendatario quiero iniciar sesión para que los datos previamente registrados se puedan cargar en las funcionalidades del sistema
-
+===============================================
+Como usuario arrendador o arrendatario quiero iniciar sesión para hacer uso de los servicios de la pagina.
+Estimacion 2
+===============================================
 -Criterios de aceptacion
-
-1. El proceso se debe hacer mediante un formulario, para ingresar el usuario y contraseña
-2. Debe ingresar a la tabla de usuario y verificar que los datos esten registrados.
-3. Mostrar mensajes en caso de que no este registrado y sugerirle que se registre.
-4. Validar que coincidan los datos del usuario con la contraseña.
-5. Si el inicio de sesion esta correcto debe cargarse los datos del usuario en el perfil y dirigirlo a la landing page. 
+===============================================
+1. El proceso se debe hacer mediante un formulario, para ingresar el usuario y contraseña la contraseña debe aparecer oculta o encriptada 
+2. Debe ingresar a la tabla de usuario y verificar que los datos esten registrados, si no encuenntra el usuario deben mandar un mensaje de "usuario y/o clave incorrectos".
+3. una vez encontrado el usuario se debe crear la sesion en el servidor (cookies)
+4. Mostrar mensajes en caso de que no este registrado y sugerirle que se registre.
+5. Si el inicio de sesion esta correcto debe redirigirlo a la landing page ("www.HomeSalem.com"). 
