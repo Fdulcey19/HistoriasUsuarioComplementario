@@ -1,0 +1,15 @@
+Registro de inmuebles
+--------------------------------------------------------------------------------
+como arrendador quiero registrar un inmueble para ofreceer el inmuebles que ofresco 
+
+Estimacion: 3
+--------------------------------------------------------------------------------
+
+criterios de aceptación
+--------------------------------------------------------------------------------
+* se empleara un formulario con los campos precio, ubicaion, fotos (maximo 10 ), descripcion, escritura publica, documentos ode propiedad del inmueble   
+* el arrendador debera estar logueado 
+* los dias de disposicion 
+* metodos de pago soportados por el cliente
+* se mostrara un mensaje donde ya "el inmueble quedo registrado, en espera de aprovacion del administrador "
+* habra un mensaje donde dira "Error al iniciar" ya que no esta registrado
