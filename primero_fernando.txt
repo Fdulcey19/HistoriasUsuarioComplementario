@@ -1,17 +1,20 @@
-   ver informacion de arrendatario:
 
+           ver informacion de arrendatario
+
+-------------------------------------------------------------------------------
 Historia de usuario:
-Como arendatario nesesito dar mi informacion personal
-y recomendacion de donde las personas que eh vivido
+-------------------------------------------------------------------------------   
+Como arrendador nesesito ver la informacion del arrendatario
+para decidir si le arriendo el inmueble
 
+-------------------------------------------------------------------------------
 Criterios de Aceptacion:
- -Se debe realizar por medio del nombre, apellido y el correo
-  como informacion personal.
- - Se debe realizar al arrendatario que ingrese los datos
-   de una empresa o trabajo en la que este trabajando.
- - Se debe relializar al arrendatario que ingrese el numero de telefono.
- - Se debe realizar al arrendatario que ingrese un contacto en caso
-   de una emergencia.
- - Se debe realizar al arrendatario un telefono y nombre de contacto en caso de emergencia
- - Se debe realizar al arrendatario la fecha de inicio de arrendamiento
- 
+-------------------------------------------------------------------------------
+
+-    1     Se debe mostrar el detalle del arrendatario el nombre, apellido, foto, correo, telefono,  como informacion personal.
+-    1     vizualizar una lista de los anteriores comentarios realizados por los arrendadores.
+-    1    se debe mostrar los deudores solidario. 
+-    1     mostrar la puntuacion con estrellas 1-5.
+-    2    se debe ver los contratos de arrendamiento anteriores.
+-    2     se debe ver la certificaion laboral.
+-    3    se debe ver si fue puntual con sus pagos en su ultimo contrato de arendamiento
