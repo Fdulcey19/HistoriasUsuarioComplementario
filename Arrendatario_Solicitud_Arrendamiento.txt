@@ -1,0 +1,13 @@
+
+Historia de Usuario Arrendatario_SolicitudArrendamiento                                                          
+=============================================
+Como arrendatario quiero solicitar un inmueble para continuar con el proceso de contratacion 
+Estimacion: 3
+****************************************************************************************************
+Criterios de Aceptacion
+=============================================
+1. Que el usuario arrendatario debe estar logueado y con todos sus datos personales validados, de lo contrario lo redirige al inicio de sesion 
+2. Se debe realizar por medio de un formulario con el campo descripcion para incluir nombre, apellidos,numero de identificacion  de los demas acompañantes u otra información 
+3. Cargar los datos del perfil del usuario un objeto  para la creacion del contrto de arrendamiento 
+4. el arrendatario no podra realizar solicitudes de arrendamiento si esta penalizado 
+
