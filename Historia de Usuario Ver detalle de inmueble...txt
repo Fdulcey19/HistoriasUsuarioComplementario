@@ -1,0 +1,19 @@
+Historia de Usuario (Ver detalles del inmueble).
+
+Como arrendatario quiero ver detalles del inmueble para poder 
+decidir si es conveniente y de esa manera poder solicitar el arrendamiento.
+
+
+ Criterios de aceptacion
+
+1.Se debe realizar una interfaz. En la parte superior izquiera un boton para regresar al listado de inmuebles y 
+en la parte superior  derecha de la misma va aparecer una imagen y el nombre del arrendador, en la parte inferior
+ el numero de contacto.
+
+2.En la parte central de la interfaz nos va ha perimitir ver informacion del inmueble, 
+como la ubicacion,estrato del inmueble, precio, descripcion de la vivienda, que servicios tiene,
+como se entrega, y una opcion ver  imagenes del  inmueble.
+
+3.En la parte inferior nos va ha mostrar una ubicacion del inmuble por medio de cosumo de API.
+
+4.Seguido va aparcer la opcion de solicitar arrendamiento, o descartar por medio de botones.
