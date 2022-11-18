@@ -1,0 +1,17 @@
+   ver informacion de arrendatario:
+
+Historia de usuario:
+Como arendatario nesesito dar mi informacion personal
+y recomendacion de donde las personas que eh vivido
+
+Criterios de Aceptacion:
+ -Se debe realizar por medio del nombre, apellido y el correo
+  como informacion personal.
+ - Se debe realizar al arrendatario que ingrese los datos
+   de una empresa o trabajo en la que este trabajando.
+ - Se debe relializar al arrendatario que ingrese el numero de telefono.
+ - Se debe realizar al arrendatario que ingrese un contacto en caso
+   de una emergencia.
+ - Se debe realizar al arrendatario un telefono y nombre de contacto en caso de emergencia
+ - Se debe realizar al arrendatario la fecha de inicio de arrendamiento
+ 
